@@ -1,7 +1,28 @@
-# App_Pe_Diabetico
+# Diabetic Foot Monitoring App
 
-### Este repositório contém parte da componente prática desenvolvida no âmbito da dissertação de mestrado, correspondente a uma aplicação móvel para acompanhamento e monitorização do pé diabético.
+This repository contains part of the practical work developed during my Master’s Thesis in Medical Informatics.
 
-### A aplicação foi desenvolvida em Flutter e tem como principal objetivo apoiar pacientes com pé diabético no acompanhamento da sua condição clínica, permitindo a consulta de informação educativa, o registo de métricas clínicas, a visualização do histórico de registos, a submissão de fotografias do pé diabético para seguimento da evolução de feridas, a análise estatística de métricas ao longo do tempo e a comunicação entre o paciente e o profissional de saúde. A aplicação integra ainda uma API REST para suporte ao armazenamento e processamento de dados.
+The project consists of a mobile application developed with Flutter for diabetic foot monitoring and patient follow-up. The application allows users to:
 
-##### Por motivos de segurança, privacidade e proteção da infraestrutura, este repositório disponibiliza apenas a diretoria `lib/`, correspondente às páginas e componentes da interface da aplicação. As restantes configurações, serviços externos, credenciais, lógica de backend e integração com serviços sensíveis não são disponibilizados publicamente.
+- Record and monitor clinical metrics
+- View historical health records
+- Upload diabetic foot images for wound evolution tracking
+- Access educational information
+- Analyze health metrics over time
+- Communicate with healthcare professionals
+
+The system integrates a REST API for data storage and processing, as well as Firebase services for authentication and real-time features.
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Firebase
+- REST APIs
+- Mobile Development
+
+## Repository Notice
+
+For security, privacy and infrastructure protection reasons, this public repository only includes the `lib/` directory, containing the application pages and UI components.
+
+Sensitive configurations, credentials, backend services and private infrastructure components are intentionally excluded.
