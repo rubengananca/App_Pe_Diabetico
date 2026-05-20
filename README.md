@@ -35,4 +35,6 @@ Sensitive configurations, credentials, backend services and private infrastructu
   <img src="screenshots/login_page.png" width="250"/>
   <img src="screenshots/main_page.png" width="250"/>
   <img src="screenshots/galery.png" width="250"/>
+  <img src="screenshots/emergency_tips.png" width="250"/>
+  <img src="screenshots/photo_page.jpg" width="250"/>
 </p>
