@@ -26,3 +26,13 @@ The system integrates a REST API for data storage and processing, as well as Fir
 For security, privacy and infrastructure protection reasons, this public repository only includes the `lib/` directory, containing the application pages and UI components.
 
 Sensitive configurations, credentials, backend services and private infrastructure components are intentionally excluded.
+
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/hello_page.png" width="250"/>
+  <img src="screenshots/login_page.png" width="250"/>
+  <img src="screenshots/main_page.png" width="250"/>
+  <img src="screenshots/galery.png" width="250"/>
+</p>
